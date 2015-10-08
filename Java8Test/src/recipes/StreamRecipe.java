@@ -23,6 +23,7 @@ public class StreamRecipe {
 		
 		//comment
 		//comment2
+		//partial comment in branch
 	}
 
 }
