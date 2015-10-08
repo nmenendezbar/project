@@ -22,7 +22,7 @@ public class StreamRecipe {
 		myList.stream().forEach( System.out::println);
 		
 		//comment
-		//comment2
+		//comment fixed
 	}
 
 }
