@@ -21,6 +21,7 @@ public class StreamRecipe {
 		//method reference
 		myList.stream().forEach( System.out::println);
 		
+		//comment
 	}
 
 }
